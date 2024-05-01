@@ -1,0 +1,23 @@
+
+.screen {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: right;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Optional: Add transition for smoother appearance */
+  .screen {
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Optional: Hover effect */
+  .screen:hover {
+    background-color: #f5f5f5;
+  }
+  
